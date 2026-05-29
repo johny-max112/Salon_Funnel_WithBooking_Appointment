@@ -812,7 +812,7 @@ function App() {
       </main>
 
       <footer className="bg-salon-dark px-4 py-7 text-center text-sm text-white/80 md:px-8">
-        © 2026 GlowUp Salon. All rights reserved.
+        © 2026 GlowUp Salon. Johntadeo Liscano
       </footer>
 
       <Dialog open={bookingOpen} onOpenChange={setBookingOpen}>
